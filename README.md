@@ -1,2 +1,1 @@
-# 3-problems-with-C-
-1
+# 3-problems-with-C++
